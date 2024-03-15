@@ -1,0 +1,18 @@
+.post-profile {
+  width: 300px;
+  height: 300px;
+  border: 1px solid rgb(36, 36, 36);
+  margin: 20px;
+  margin-right: 0px;
+}
+
+.post-profile img {
+  width: 90%;
+  height: 90%;
+  display: flex;
+}
+
+.description {
+  text-align: justify;
+  padding: 2%;
+}
